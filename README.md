@@ -5,7 +5,7 @@ Monday to sunday
 
 <b>The foods we provide and deliver for our respected customers</b>
 ![Kebab](ins-kebab2.jpg)  
-<img src="bryani.jpg" alt="Bryani" width="400" height="200"/>
+<img src="bryani.jpg" alt="Bryani" width="500" height="500"/>
 
 ### Check this youtube video 
 <iframe width="560" height="315"
