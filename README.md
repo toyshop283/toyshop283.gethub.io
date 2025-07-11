@@ -4,7 +4,8 @@ Monday to sunday
 10am to 10pm
 
 <b>The foods we provide and deliver for our respected customers</b>
-![Kebab](ins-kebab2.jpg)  
+
+<img src="ins-kebab2.jpg" alt="Kebab" width="500" height="500"/>
 <img src="bryani.jpg" alt="Bryani" width="500" height="500"/>
 
 ### Check this youtube video 
