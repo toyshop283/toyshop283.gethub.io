@@ -8,7 +8,7 @@ Monday to sunday
 <img src="ins-kebab2.jpg" alt="Kebab" width="500" height="500"/>
 <img src="bryani.jpg" alt="Bryani" width="500" height="500"/>
 <video width="640" height="360" controls>
-  <source src="https://github.com/toyshop283/toyshop283.gethub.io/edit/main/video.mp4?raw=true" type="video/mp4">
+  <source src=" https://github.com/toyshop283/toyshop283.gethub.io/raw/main/video.mp4">
   Your browser does not support the video tag.
 </video>
 ### Check this youtube video 
