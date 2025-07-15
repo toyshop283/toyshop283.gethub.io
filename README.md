@@ -1,11 +1,7 @@
-# Traditional Food
-## Working Hours
-Monday to sunday  
-10am to 10pm
 <h1 style="color : red "> Traditional food  </h1>
-<h3 style="color : red "> Traditional food  </h3>
-<p style="color : red >Monday to sunday  </p>
-<p style="color : red >Monday to sunday  </p>
+<h3 style="color : red "> Working Hours  </h3>
+<p style="color : red" >Monday to sunday  </p>
+<p style="color : red" >10am to 10pm  </p>
 <b>The foods we provide and deliver for our respected customers</b>
 
 <img src="ins-kebab2.jpg" alt="Kebab" width="500" height="500"/>
