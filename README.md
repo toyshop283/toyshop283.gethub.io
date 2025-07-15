@@ -3,6 +3,7 @@
 <p style="color : red" >Monday to sunday  </p>
 <p style="color : red" >10am to 10pm  </p>
 [Branch Offices](branches.html)  
+[Contacts](contacts.html)  
 <b>The foods we provide and deliver for our respected customers</b>
 
 <img src="ins-kebab2.jpg" alt="Kebab" width="500" height="500"/>
