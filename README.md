@@ -6,6 +6,10 @@ Monday to sunday
 <b>The foods we provide and deliver for our respected customers</b>
 
 <img src="ins-kebab2.jpg" alt="Kebab" width="500" height="500"/>
+![Kebab](ins-kebab2.jpg)
+
+*Figure 1: This is the image caption.*
+
 <img src="bryani.jpg" alt="Bryani" width="500" height="500"/>
 
 [Watch the video](https://github.com/toyshop283/toyshop283.gethub.io/raw/main/web2-video1.mp4)
