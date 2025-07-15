@@ -7,12 +7,13 @@ Monday to sunday
 
 <img src="ins-kebab2.jpg" alt="Kebab" width="500" height="500"/>
 <img src="bryani.jpg" alt="Bryani" width="500" height="500"/>
+
 <video width="640" height="360" controls>
-  
   <source src="https://toyshop283.github.io/web2-video1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-### Check this youtube video 
+
+### If you cant see the above video check this youtube link 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/y_96MSTTrtA"
   title="YouTube video player"
