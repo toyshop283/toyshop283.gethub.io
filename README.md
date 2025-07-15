@@ -6,9 +6,10 @@ Monday to sunday
 <b>The foods we provide and deliver for our respected customers</b>
 
 <img src="ins-kebab2.jpg" alt="Kebab" width="500" height="500"/>
+
 ![Kebab](ins-kebab2.jpg)
 
-*Figure 1: This is the image caption.*
+*Figure 1: Checken Kebab on the fire.*
 
 <img src="bryani.jpg" alt="Bryani" width="500" height="500"/>
 
