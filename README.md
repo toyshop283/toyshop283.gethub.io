@@ -9,7 +9,7 @@ Monday to sunday
 <img src="bryani.jpg" alt="Bryani" width="500" height="500"/>
 
 <video width="640" height="360" controls>
-  <source src="https://toyshop283.github.io/web2-video1.mp4" type="video/mp4">
+  <source src="https://github.com/toyshop283/toyshop283.gethub.io/blob/main/web2-video1.mp4">
   Your browser does not support the video tag.
 </video>
 
